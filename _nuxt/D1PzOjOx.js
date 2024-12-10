@@ -1,0 +1,1 @@
+import{k as t,c as s,e as o,D as c}from"./B9UYqjP7.js";const r={},n={class:"divide-y [&:not(:first-child)]:mt-6"};function a(e,d){return s(),o("div",n,[c(e.$slots,"default")])}const l=t(r,[["render",a]]);export{l as default};

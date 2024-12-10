@@ -1,1 +1,0 @@
-import{P as u}from"./BaMFaaxO.js";function f(c){const{navigation:l}=u(),s=[],i=c.split("/").filter(n=>n!=="");let e="",o=l.value;for(const n of i){const r=n.replace(".html","");e+=`/${r}`;const t=o.find(m=>m._path===e);o=t==null?void 0:t.children,s.push({title:(t==null?void 0:t.title)??r,href:e})}return s}export{f as u};

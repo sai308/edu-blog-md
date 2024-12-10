@@ -1,1 +1,0 @@
-import{k as s,c as t,e as o,D as c}from"./BaMFaaxO.js";const r={},n={class:"leading-7 [&:not(:first-child)]:mt-6"};function a(e,l){return t(),o("p",n,[c(e.$slots,"default")])}const d=s(r,[["render",a]]);export{d as default};
