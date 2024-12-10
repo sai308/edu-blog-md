@@ -1,0 +1,1 @@
+import{k as t,c as r,e as s,D as c}from"./C19zmeCd.js";const n={},o={class:"border px-4 py-2 text-left [&[align=center]]:text-center [&[align=right]]:text-right"};function a(e,l){return r(),s("td",o,[c(e.$slots,"default")])}const _=t(n,[["render",a]]);export{_ as default};
