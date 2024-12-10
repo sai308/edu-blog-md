@@ -1,0 +1,1 @@
+import{d as r,c as o,e as n,D as c,n as t,E as d,G as l}from"./BaMFaaxO.js";const u=r({__name:"Card",props:{class:{}},setup(s){const e=s;return(a,p)=>(o(),n("div",{class:t(d(l)("rounded-lg border bg-card text-card-foreground shadow-sm",e.class))},[c(a.$slots,"default")],2))}});export{u as _};

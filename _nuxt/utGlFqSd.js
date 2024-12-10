@@ -1,1 +1,0 @@
-import{k as o,c as t,e as c,D as s}from"./C19zmeCd.js";const r={},l={class:"border-l-2 pl-6 italic [&:not(:first-child)]:mt-6"};function n(e,a){return t(),c("blockquote",l,[s(e.$slots,"default")])}const d=o(r,[["render",n]]);export{d as default};

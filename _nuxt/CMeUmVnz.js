@@ -1,1 +1,0 @@
-import{k as e,c as s,e as o,D as c}from"./C19zmeCd.js";const l={},r={class:"ml-6 list-decimal [&:not(:first-child)]:mt-6 [&:not(:last-child)]:mb-6 [&>li:not(:first-child)]:mt-2"};function n(t,a){return s(),o("ol",r,[c(t.$slots,"default")])}const d=e(l,[["render",n]]);export{d as default};
