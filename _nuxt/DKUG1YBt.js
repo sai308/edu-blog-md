@@ -1,0 +1,1 @@
+import{k as r,c as t,e as s,D as o}from"./C52aZ_jU.js";const c={},n={class:"m-0 border-t p-0 even:bg-muted/50"};function a(e,_){return t(),s("tr",n,[o(e.$slots,"default")])}const l=r(c,[["render",a]]);export{l as default};
