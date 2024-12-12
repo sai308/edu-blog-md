@@ -43,7 +43,7 @@ actions:
   - name: GitHub
     variant: outline
     to: https://github.com/sai308/client-server-architecture-practice
-mobileRight: 'top' # 'top' | 'bottom'
+mobileRight: 'bottom' # 'top' | 'bottom'
 ---
 
 #title

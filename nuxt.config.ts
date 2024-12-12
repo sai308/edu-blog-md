@@ -79,7 +79,21 @@ export default defineNuxtConfig({
       },
     },
   },
+
+  nitro: {
+    prerender: {
+      routes: [
+        '/',
+        '/os/overview',
+        '/client-server-architecture/overview',
+        '/about',
+        '/contacts',
+      ],
+    },
+  },
+
   icon: {
+    // provider: 'iconify',
     clientBundle: {
       scan: true,
       sizeLimitKb: 512,

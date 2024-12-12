@@ -12,6 +12,7 @@
   "main": "nuxt.config.ts",
   "scripts": {
     "build": "nuxi build",
+    "build:gh": "nuxi build --preset github_pages",
     "dev": "nuxi dev",
     "generate": "nuxi generate",
     "preview": "nuxi preview",
